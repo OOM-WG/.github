@@ -2,7 +2,7 @@
 
 ### 取得于开发团队的联系
 
-<a href="https://qq.yumeyuka.plusk">
+<a href="https://qq.yumeyuka.plus">
   <img align="left" alt="QQ" width="22px" src="../icon/QQ.png" />
 </a>
 <a href="https://github.com/OOM-WG">
