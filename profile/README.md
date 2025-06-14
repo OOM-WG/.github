@@ -3,20 +3,20 @@
 ### 取得于开发团队的联系
 
 <a href="https://qq.yumeyuka.plusk">
-  <img align="left" alt="QQ" width="22px" src="./icon/QQ.png" />
+  <img align="left" alt="QQ" width="22px" src="../icon/QQ.png" />
 </a>
 <a href="https://github.com/OOM-WG">
-  <img align="left" alt="GitHub" width="22px" src="./icon/github.png" />
+  <img align="left" alt="GitHub" width="22px" src="../icon/github.png" />
 </a>
 <a href="https://github.com/OOM-WG">
-  <img align="left" alt="discord" width="22px" src="./icon/discord.png" />
+  <img align="left" alt="discord" width="22px" src="../icon/discord.png" />
 </a>
 <a href="https://gitcode.com/OOM-WG">
-  <img align="left" alt="gitcode" width="22px" src="./icon/plane-gitcodeai.png" />
+  <img align="left" alt="gitcode" width="22px" src="../icon/plane-gitcodeai.png" />
 </a>
 <br />
 
-<img align="right" alt="GIF" src="./img/Yume.webp" width="260px" />
+<img align="right" alt="GIF" src="../img/Yume.webp" width="260px" />
 
 
 OOM-WG 由 @TianwanTW 发起，是一个致力于用编程创造美好回忆的组织。<br>
