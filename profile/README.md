@@ -1,15 +1,13 @@
 <div align="center">
 
-## 欢迎光临 [回忆溢出工作组 (O.O.M. W.G.)](https://oom-wg.dev)
-> 若需要与开发团队取得联系，请访问 https://join.oom-wg.dev
+<img src="img.png" alt="logo" width="96" />
 
-<br/>
- 
-![O.O.M. W.G. Logo](img.webp)  
+![GitHub followers](https://img.shields.io/github/followers/OOM-WG)
+![GitHub Org's stars](https://img.shields.io/github/stars/OOM-WG)
 
-[回忆溢出工作组 (O.O.M. W.G.)](https://oom-wg.dev) 由 [@白彩恋](https://github.com/ShIroRRen) 发起，是一个致力于用编程创造美好回忆的组织。<br>
-**OOM** 的缩写灵感源自 **Out Of Memory**（内存溢出），而我们更希望 **Out Of Memories**（回忆溢出）。<br>
+回忆溢出工作组（O.O.M. W.G.）
 
-我们希望通过编程创造美好的回忆，如果你遇到一个真心待你、没有任何伪装的朋友，请一定珍惜他。不要因为网络的虚拟性而轻视或傲慢对待任何人。无论是在虚拟世界，还是在现实生活中，人与人之间的交互本质没有任何区别——它们依赖于我们每个人投入的时间与情感。
+[所有内容发布页](https://oom-wg.dev)  
+若需要与开发团队取得联系，请 [点击这里](https://join.oom-wg.dev)
 
 </div>
