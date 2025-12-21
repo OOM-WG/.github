@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="img.png" alt="logo" width="96" />
+<img src="oom.webp" alt="logo" width="96" />
 
+[回忆溢出工作组（O.O.M. W.G.）](https://oom-wg.dev)
 
-回忆溢出工作组（O.O.M. W.G.）
+![followers](https://img.shields.io/github/followers/OOM-WG)
+![stars](https://img.shields.io/github/stars/OOM-WG)
 
-![GitHub followers](https://img.shields.io/github/followers/OOM-WG)
-![GitHub Org's stars](https://img.shields.io/github/stars/OOM-WG)
-
-[所有内容发布页](https://oom-wg.dev)  
-若需要与开发团队取得联系，请 [点击这里](https://join.oom-wg.dev)
+[内容发布](https://oom-wg.dev) | [交流反馈](https://oom-wg.dev/join) | [开发成员](https://oom-wg.dev/developers)
 
 </div>
